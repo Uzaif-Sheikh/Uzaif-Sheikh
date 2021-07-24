@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-<img align="right" alt="GIF" src="https://github.com/arsentieva/arsentieva/blob/main/code.gif?raw=true" width="500" height="320" />
+<img align="right" alt="GIF" src="https://raw.githubusercontent.com/Uzaif-Sheikh/Uzaif-Sheikh/main/giphy.gif" width="500" height="320" />
 
 - 🔭 I’m currently working on Web development 
 - 🌱 I’m currently learning Unreal/Dev-ops/React
@@ -19,6 +19,9 @@
 <img src="https://img.icons8.com/fluent/48/000000/facebook-new.png"/>
 </a>
   
+<br />
+<br />
+<br />
 <br />
 
 ### Languages and Tools:
