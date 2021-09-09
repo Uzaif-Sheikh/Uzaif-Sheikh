@@ -2,8 +2,8 @@
 
 <img align="right" alt="GIF" src="https://raw.githubusercontent.com/Uzaif-Sheikh/Uzaif-Sheikh/main/giphy.gif" width="500" height="320" />
  
-- 🌱 I’m currently learning Unreal/Dev-ops/React
-- 👯 I’m looking to collaborate on Open source and Indie game.
+- 🌱 I’m currently learning Unity/Dev-ops/React
+- 👯 I’m looking to collaborate on Open source and Indie games.
 - 😄 Pronouns: He/Him
 <br />
 <br />
