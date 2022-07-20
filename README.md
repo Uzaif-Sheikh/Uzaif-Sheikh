@@ -51,5 +51,5 @@
  <br />
  <br />
  
- ![Uzaif Sheikh github stats](https://github-readme-stats.vercel.app/api?username=Uzaif-Sheikh&show_icons=true&theme=nord&hide=stars)
+ ![Uzaif Sheikh github stats](https://github-readme-stats.vercel.app/api?username=Uzaif-Sheikh&show_icons=true&theme=nord&hide=stars&count_private=true)
  
