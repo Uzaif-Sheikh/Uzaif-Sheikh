@@ -47,5 +47,9 @@
 <h3>🔭 I’m currently working on: </h3>
 <img align="left" alt="Express" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/express/express.png" />
 <img align="left" alt="Andorid" width="26px" src="https://user-images.githubusercontent.com/20749736/29601283-58be7ef6-87f8-11e7-82b5-0bfe982044d2.png" />
+ <br />
+ <br />
+ <br />
  
+ ![Uzaif Sheikh github stats](https://github-readme-stats.vercel.app/api?username=Uzaif-Sheikh&show_icons=true&theme=nord&hide=stars)
  
