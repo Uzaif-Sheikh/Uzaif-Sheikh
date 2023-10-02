@@ -5,8 +5,6 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=uzaif-sheikh" alt="uzaif-sheikh" /></a> </p>
 
-- 🔭 I’m currently working on [better-intersections](https://github.com/jakecoppinger/better-intersections)
-
 - 👨‍💻 All of my projects are available at [https://uzaifs.xyz/](https://uzaifs.xyz/)
 
 - 📫 How to reach me **uzaifsheikh2309@gmail.com**
