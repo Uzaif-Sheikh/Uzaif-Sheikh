@@ -5,7 +5,7 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=uzaif-sheikh" alt="uzaif-sheikh" /></a> </p>
 
-- 👨‍💻 All of my projects are available at [https://uzaifs.xyz/](https://uzaifs-c45occ5xa-uzaifsheikhs-projects.vercel.app)
+- 👨‍💻 All of my projects are available at [[https://uzaifs.xyz/](https://uzaifs.vercel.app/)]
 
 - 📫 How to reach me **uzaifsheikh2309@gmail.com**
 
